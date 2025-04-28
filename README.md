@@ -40,7 +40,6 @@ Estou em constante aprendizado e uso diversas tecnologias para construir solu√ß√
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60" style="margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="60" style="margin: 5px;">
